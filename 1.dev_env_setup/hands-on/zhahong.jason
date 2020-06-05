@@ -1,0 +1,25 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Zhaowei Hong",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 7
+        }
+
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "hobbies": "Basketball, Video Games"
+    }
+  ]
+}
